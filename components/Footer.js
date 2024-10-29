@@ -191,7 +191,7 @@ const Footer = () => {
   <ul className="mt-2 space-y-4 md:mt-6">
     <li>
       <Link
-        href="#"
+        href="/about-us"
         className="hover-gradient-effect block py-1 text-link styles_hover-gradient-effect__AIX_8 hover:underline hover:decoration-current hover:underline-offset-4"
       >
         About Us
